@@ -1,0 +1,52 @@
+.bg{
+    background-image:url("https://i.pinimg.com/originals/08/a6/c8/08a6c820b94635987db0b9140330830b.jpg");
+    background-size: cover;
+}
+.login_div1{
+		padding: 10px;
+		float: none;
+        background-image: url("https://i.pinimg.com/originals/08/a6/c8/08a6c820b94635987db0b9140330830b.jpg");    
+        border: solid;
+        border-width: 15px;
+        border-color: white;
+        border-radius: 5px;
+        color: white;
+	}
+    .login_div2{
+        padding: 10px;
+		float: none;
+        background-image: url("https://i.pinimg.com/originals/08/a6/c8/08a6c820b94635987db0b9140330830b.jpg");
+        border: solid;
+        border-width: 15px;
+        border-color: white;
+        border-radius: 5px;
+        color: white;
+	}
+.clearbg{
+    background-color:transparent;
+}
+#btn_login{
+    background-color: white;
+    color: purple;
+    font-weight: bold;
+}
+#output{
+background: wheat;
+border-radius: 10px;
+border-top: 10px solid transparent;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 10px;
+    color: white;
+}
+#player_question, #player_answer{
+    color: white;
+}
+#player1_score, #player2_score{
+    color: white;
+}
